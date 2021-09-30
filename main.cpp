@@ -7,5 +7,5 @@ int main()
   cout << "Anna Butujeva";
    cout << "masterringo";
     cout << "owner berwy";
-r
+     cout << "Maksim MIhailov";
 }
