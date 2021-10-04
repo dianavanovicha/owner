@@ -10,6 +10,7 @@ int main()
     cout << "masterringo";
      cout << "owner berwy";
       cout << "Maksim MIhailov";
+  cout << "Deniss";
 
 
 }
